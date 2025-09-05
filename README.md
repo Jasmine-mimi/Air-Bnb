@@ -57,7 +57,7 @@ The primary goal is to identify **key patterns and trends** that can help variou
 
 ## 📊 Dashboard Screenshots
 
-> ![Dashbaord](Dashboard-Screenshot.png)
+> ![Dashbaord](https://github.com/Jasmine-mimi/Air-Bnb/blob/main/Dashboard-Screenshot.PNG)
 
 
 ---
